@@ -19,9 +19,10 @@
 
 **Plugin recommendations**
 - LSP Plugin suite
-- 
+
 
 **Instrument recommendations**
+- SFizz Sampler (https://archlinux.org/packages/extra/x86_64/sfizz-lv2/)
 - X42 AVL-drums (multi output)
 
 **Neural Amp Modeler**
