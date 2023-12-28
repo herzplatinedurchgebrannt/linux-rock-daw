@@ -24,5 +24,10 @@
 **Instrument recommendations**
 - X42 AVL-drums (multi output)
 
+**Neural Amp Modeler**
+- https://github.com/mikeoliphant/neural-amp-modeler-lv2
+- Profiles: tonehunt.org
+
 **Sources**
 - linuxdaw.org
+- tonehunt.org
