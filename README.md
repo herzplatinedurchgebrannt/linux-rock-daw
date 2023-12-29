@@ -31,6 +31,8 @@
 **SFZ-Libraries**
 - Standard Bass v2
 - https://www.kvraudio.com/forum/viewtopic.php?t=517060
+- Black & Blue Bass
+- https://shop.karoryfer.com/pages/free-black-and-blue-basses
 
 
 **Neural Amp Modeler**
