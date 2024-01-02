@@ -48,6 +48,7 @@
 - open winetricks, set flag windows 10
 - download legacy native access installer v 1.14
 - install NA
+- install kontakt player 6, player 7 will fail
 - download files, install fails
 - extract iso content with 7zip: 7z x ./xxx.iso
 - install sample library
