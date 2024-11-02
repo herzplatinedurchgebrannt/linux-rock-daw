@@ -53,6 +53,10 @@
 - extract iso content with 7zip: 7z x ./xxx.iso
 - install sample library
 
+OR
+- sudo mkdir /mnt/foldname/
+- sudo mount -t udf plugin.iso -o unhide /mnt/foldname/ 
+
 **Sources**
 - linuxdaw.org
 - tonehunt.org
